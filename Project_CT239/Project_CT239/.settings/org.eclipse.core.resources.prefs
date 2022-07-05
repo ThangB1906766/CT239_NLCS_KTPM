@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/controller/ListenerInputFile.java=UTF-8
+encoding//src/controller/ListenerInputHands.java=UTF-8
+encoding//src/controller/ListenerInputRandom.java=UTF-8
+encoding//src/model/Number.java=UTF-8
+encoding//src/model/NumberPanel.java=UTF-8
+encoding//src/view/Home.java=UTF-8
+encoding//src/view/InputFile.java=UTF-8
+encoding//src/view/RunableInputFile.java=UTF-8
+encoding//src/view/RunableInputHands.java=UTF-8
+encoding//src/view/RunableInputRandom.java=UTF-8
+encoding/<project>=UTF-8
+separateDerivedEncodings=true
